@@ -3931,6 +3931,10 @@ SA-5 (5):
   family: SA
   name: Source Code
   description: '[Withdrawn: Incorporated into SA-4 (2)].'
+SA-5 (6):
+  family: SA
+  name: Source Code
+  description: '[Withdrawn: Incorporated into SA-4 (2)].'
 SA-6:
   family: SA
   name: Software Usage Restrictions
